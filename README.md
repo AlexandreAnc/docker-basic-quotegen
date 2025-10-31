@@ -1,4 +1,4 @@
-# Guide Docker - Quotegen
+# Quotegen
 
 ## Étape 1 : Informations système
 
